@@ -7,8 +7,11 @@ a simple express server to probe ipc via onvif.
 
 ### Clone the latest version from github
 `git clone https://github.com/godka/express_onvif.git`
+
 `cd express_onvif`
+
 `npm install`
+
 `node server.js`
 
 ## Run
@@ -16,4 +19,5 @@ a simple express server to probe ipc via onvif.
 `node server.js`
 ### run http-client,such as curl
 `curl http://localhost:3000/search`
+
 Waiting for response.
