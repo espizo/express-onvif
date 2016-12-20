@@ -1,0 +1,31 @@
+{
+  "name": "onvif",
+  "version": "0.5.3",
+  "author": "godka <me@mythkast.net>",
+  "description": "A Express Server to Probe IPC via Onvif",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/godka/onvif.git"
+  },
+  "dependencies": {
+    "onvif": ">=0.5",
+    "express": ">=4.0.0"
+  },
+  "keywords": [
+    "express",
+    "onvif",
+    "video",
+    "PTZ",
+    "camera",
+    "RTSP"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.12"
+  },
+  "devDependencies": {
+    "onvif": ">=0.5",
+    "express": ">=4.0.0"
+  }
+}
